@@ -1,8 +1,7 @@
 # Mini-Project--Application-of-NN
 
-
-(Expected the following details in the report )
 ## Project Title:
+### Speech recognition
 ## Project Description 
 ## Algorithm:
 ## Program:
