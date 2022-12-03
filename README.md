@@ -1,8 +1,7 @@
 # Mini-Project--Application-of-NN
 
-## Project Title:
-### Speech recognition
-## Project Description 
+## SPEECH RECOGNITION:
+
 ## Algorithm:
 ## Program:
 ## Output:
