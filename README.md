@@ -45,5 +45,8 @@ try:
    ```
 ## OUTPUT:
 
+![s1](https://user-images.githubusercontent.com/113674204/205452926-a18d5323-de89-4438-8d81-06ab3812376e.png)
+
+
 ## RESULT:
 Thus the text to speech conversion is implemented successfully.
